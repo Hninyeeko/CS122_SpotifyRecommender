@@ -2,7 +2,7 @@
 
 Team Chrapple: Apple Ko and Christopher Oh
 
-This project is implemented in two parts: Spotify Dashboard and the Song Recommendation System. SpotifyDashboard.ipynb contains the code to build the music dashboard and Listenbrainz Recommendation.ipynb contains the code for the song recommendation system.
+This project is implemented in two parts: Spotify Dashboard and the Song Recommendation System. SpotifyDashboard.ipynb contains the code to build the Spotify music dashboard and Listenbrainz Recommendation.ipynb contains the code for the song recommendation system.
 
 **How to Run the Spotify Music Dashboard Program**
 
