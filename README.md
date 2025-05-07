@@ -18,5 +18,5 @@ This project is implemented in two parts: Spotify Dashboard and the Song Recomme
 
 **Step 6:** Run the sixth cell to define the function that will build the layout of your music profile dashboard.
 
-**Step 7:** Run the seventh cell to display the dashboard that you’ve created! 
+**Step 7:** Run the seventh cell to display the dashboard that you’ve created and Voila!!
 
