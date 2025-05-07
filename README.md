@@ -20,3 +20,18 @@ This project is implemented in two parts: Spotify Dashboard and the Song Recomme
 
 **Step 7:** Run the seventh cell to display the dashboard that you’ve created and Voila!!
 
+
+**How to Run the ListenBrainz Recommender**
+
+**Step 1:** Open the ListenBrainz_Recommendation.ipynb. Run the first cell to install musicbrainz api, playwright library, and spotify api
+
+**Step 2:** Run the next following cells. These are the functions that fetch data from MusicBrainz, ListenBrainz, and Spotify
+
+**Step 3:** Go to the last cell commented with RUN ME
+
+**Step 4:** Find the ListenBrainz url for the album(s) you like. The code will recommend the songs based on the album(s). For example, the url for The Beatles' Sgt Pepper's Lonely Hearts Club is https://listenbrainz.org/album/bff544a7-56e0-3ed6-9e0f-3b676cca9111/
+
+**Step 5:** Copy and paste the urls into the list marked as "album_urls" as string literals. Note: While the code can process a list of albums, in practice it's better to do this one album at a time, as each album takes roughly 8-10 minutes to gather the recommendations for.
+
+**Step 6:** Run the cell and receive the song recommendations!
+
