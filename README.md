@@ -1,5 +1,6 @@
-**Project: Spotify Dashboard
-Team Chrapple: Apple Ko and Christopher Oh**
+**Project: Spotify Dashboard**
+
+Team Chrapple: Apple Ko and Christopher Oh
 
 **How to Run the Spotify Music Dashboard Program**
 
