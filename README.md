@@ -1,4 +1,4 @@
-**Project: Spotify Dashboard**
+**Project: Spotify Dashboard & Song Recommender**
 
 Team Chrapple: Apple Ko and Christopher Oh
 
